@@ -1,2 +1,2 @@
 # jesus_walks
-Unity scripts for the simple game
+Scripts for a simple unity game
